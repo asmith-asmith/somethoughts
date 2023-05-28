@@ -1,0 +1,4 @@
+baseURL = 'http://somethoughts.com/'
+languageCode = 'en-us'
+title = 'Some Thoughts'
+theme = 'ananke'
